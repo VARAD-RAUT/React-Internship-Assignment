@@ -1,12 +1,39 @@
-# React + Vite
+# 🚀 Advanced React To-Do Application with API Integration  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Overview  
+This is an advanced **To-Do application** built using **React.js**, **Redux**, and **TailwindCSS**, featuring API integration, authentication, and responsive design. Users can add, delete, and prioritize tasks, with persistent storage and weather API integration for an enhanced experience.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features  
+✅ **Add & Delete Tasks** – Users can manage tasks with ease.  
+✅ **Task Prioritization** – Assign priorities: **High, Medium, Low**.  
+✅ **Weather API Integration** – Fetches real-time weather data based on tasks.  
+✅ **State Management with Redux** – Efficient state handling using Redux & Redux Thunk.  
+✅ **User Authentication** – Mock login/logout functionality.  
+✅ **Persistent Storage** – Tasks remain saved using `localStorage`.  
+✅ **Fully Responsive** – Works on **mobile, tablet, and desktop**.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Tech Stack  
+- **Frontend:** React.js, Redux, TailwindCSS  
+- **State Management:** Redux Toolkit, Redux Thunk  
+- **API Integration:** OpenWeather API  
+- **Authentication:** Mock login/logout  
+- **Storage:** LocalStorage  
+- **Hosting:** Vercel  
+
+---
+
+## 📸 Screenshots  
+_(Add screenshots of your app here to showcase UI)_  
+
+---
+
+## 🚀 Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
